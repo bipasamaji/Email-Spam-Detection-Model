@@ -54,3 +54,14 @@ Fetches emails from the **user's inbox**.
 Preprocesses the email content.
 Classifies each email as Spam or Ham.
 
+📦 **Optional: Set Up API for Email Fetching**
+
+Enable the Gmail API in your Google Cloud Console.
+
+Download the credentials JSON file and save it in the project directory.
+
+Uncomment the relevant API code in the notebook.
+
+Run the cells to fetch and classify emails from your inbox.
+
+
